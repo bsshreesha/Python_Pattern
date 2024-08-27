@@ -45,3 +45,10 @@ To run the provided scripts:
 - **License:** Provides information about licensing.
 
 Feel free to adjust the sections or details as needed based on additional requirements or context.
+
+
+## Star the Repository
+
+If you find this project useful or interesting, please consider starring the repository on GitHub!
+
+[![Star this repository](https://img.shields.io/github/stars/bsshreesha/Python_Pattern.svg?style=social)](https://github.com/bsshreesha/Python_Pattern/)

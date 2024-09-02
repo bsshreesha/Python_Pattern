@@ -25,6 +25,23 @@ The following scripts illustrate how to print each digit from 0 to 9 using loops
 - **8:** A script to print the digit 8 with `*` characters forming balanced horizontal and vertical lines.
 - **9:** A script to print the digit 9 with `*` characters forming top, middle, bottom lines with vertical sides and additional diagonal connections.
 
+### Patterns for Numbers 10 to 20
+
+The following scripts illustrate how to print each digit from 10 to 20 using loops and conditionals. Each digit is represented in a grid pattern that extends the concept used for digits 0 to 9.
+
+- **10:** A script to print the digit 10, combining patterns for 1 and 0 in a 7x10 grid.
+- **11:** A script to print the digit 11, combining patterns for 1 and 1 in a 7x10 grid.
+- **12:** A script to print the digit 12, combining patterns for 1 and 2 in a 7x10 grid.
+- **13:** A script to print the digit 13, combining patterns for 1 and 3 in a 7x10 grid.
+- **14:** A script to print the digit 14, combining patterns for 1 and 4 in a 7x10 grid.
+- **15:** A script to print the digit 15, combining patterns for 1 and 5 in a 7x10 grid.
+- **16:** A script to print the digit 16, combining patterns for 1 and 6 in a 7x10 grid.
+- **17:** A script to print the digit 17, combining patterns for 1 and 7 in a 7x10 grid.
+- **18:** A script to print the digit 18, combining patterns for 1 and 8 in a 7x10 grid.
+- **19:** A script to print the digit 19, combining patterns for 1 and 9 in a 7x10 grid.
+- **20:** A script to print the digit 20, combining patterns for 2 and 0 in a 7x10 grid.
+
+  
 ## Running the Code
 
 To run the provided scripts:
